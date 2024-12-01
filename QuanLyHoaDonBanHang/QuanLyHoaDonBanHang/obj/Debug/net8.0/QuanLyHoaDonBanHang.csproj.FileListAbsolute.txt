@@ -12,3 +12,18 @@ C:\Users\van\OneDrive\Desktop\Code\OOP c#\QuanLyHoaDonBanHang\QuanLyHoaDonBanHan
 C:\Users\van\OneDrive\Desktop\Code\OOP c#\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\obj\Debug\net8.0\QuanLyHoaDonBanHang.pdb
 C:\Users\van\OneDrive\Desktop\Code\OOP c#\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\obj\Debug\net8.0\QuanLyHoaDonBanHang.genruntimeconfig.cache
 C:\Users\van\OneDrive\Desktop\Code\OOP c#\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\obj\Debug\net8.0\ref\QuanLyHoaDonBanHang.dll
+C:\Users\van\Source\Repos\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\obj\Debug\net8.0\QuanLyHoaDonBanHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\van\Source\Repos\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\obj\Debug\net8.0\QuanLyHoaDonBanHang.AssemblyInfoInputs.cache
+C:\Users\van\Source\Repos\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\obj\Debug\net8.0\QuanLyHoaDonBanHang.AssemblyInfo.cs
+C:\Users\van\Source\Repos\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\obj\Debug\net8.0\QuanLyHoaDonBanHang.csproj.CoreCompileInputs.cache
+C:\Users\van\Source\Repos\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\obj\Debug\net8.0\QuanLyHoaDonBanHang.sourcelink.json
+C:\Users\van\Source\Repos\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\obj\Debug\net8.0\QuanLyHoaDonBanHang.dll
+C:\Users\van\Source\Repos\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\obj\Debug\net8.0\refint\QuanLyHoaDonBanHang.dll
+C:\Users\van\Source\Repos\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\obj\Debug\net8.0\QuanLyHoaDonBanHang.pdb
+C:\Users\van\source\repos\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\bin\Debug\net8.0\QuanLyHoaDonBanHang.exe
+C:\Users\van\source\repos\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\bin\Debug\net8.0\QuanLyHoaDonBanHang.deps.json
+C:\Users\van\source\repos\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\bin\Debug\net8.0\QuanLyHoaDonBanHang.runtimeconfig.json
+C:\Users\van\source\repos\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\bin\Debug\net8.0\QuanLyHoaDonBanHang.dll
+C:\Users\van\source\repos\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\bin\Debug\net8.0\QuanLyHoaDonBanHang.pdb
+C:\Users\van\source\repos\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\obj\Debug\net8.0\QuanLyHoaDonBanHang.genruntimeconfig.cache
+C:\Users\van\source\repos\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\QuanLyHoaDonBanHang\obj\Debug\net8.0\ref\QuanLyHoaDonBanHang.dll

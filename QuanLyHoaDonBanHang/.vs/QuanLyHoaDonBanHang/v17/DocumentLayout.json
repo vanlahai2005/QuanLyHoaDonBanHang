@@ -1,30 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\",
+  "WorkspaceRootPath": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|c:\\users\\van\\onedrive\\desktop\\code\\oop c#\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|solutionrelative:quanlyhoadonbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|c:\\users\\van\\source\\repos\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\saler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|solutionrelative:quanlyhoadonbanhang\\saler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|c:\\users\\van\\onedrive\\desktop\\code\\oop c#\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|solutionrelative:quanlyhoadonbanhang\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|c:\\users\\van\\onedrive\\desktop\\code\\oop c#\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|solutionrelative:quanlyhoadonbanhang\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|c:\\users\\van\\onedrive\\desktop\\code\\oop c#\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|solutionrelative:quanlyhoadonbanhang\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|c:\\users\\van\\onedrive\\desktop\\code\\oop c#\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\hoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|c:\\users\\van\\source\\repos\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\hoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|solutionrelative:quanlyhoadonbanhang\\hoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|c:\\users\\van\\onedrive\\desktop\\code\\oop c#\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|c:\\users\\van\\source\\repos\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|solutionrelative:quanlyhoadonbanhang\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|c:\\users\\van\\source\\repos\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|solutionrelative:quanlyhoadonbanhang\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|c:\\users\\van\\source\\repos\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|solutionrelative:quanlyhoadonbanhang\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|c:\\users\\van\\source\\repos\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|solutionrelative:quanlyhoadonbanhang\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|c:\\users\\van\\source\\repos\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|solutionrelative:quanlyhoadonbanhang\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|c:\\users\\van\\source\\repos\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|solutionrelative:quanlyhoadonbanhang\\staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|c:\\users\\van\\source\\repos\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\quanlyhoadonbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D64EF9A-4A99-4E37-8FBE-95388B4D61AE}|QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj|solutionrelative:quanlyhoadonbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,77 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Saler.cs",
+              "DocumentMoniker": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Saler.cs",
+              "RelativeDocumentMoniker": "QuanLyHoaDonBanHang\\Saler.cs",
+              "ToolTip": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Saler.cs",
+              "RelativeToolTip": "QuanLyHoaDonBanHang\\Saler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T04:21:44.579Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InvoiceItem.cs",
-              "DocumentMoniker": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\InvoiceItem.cs",
-              "RelativeDocumentMoniker": "QuanLyHoaDonBanHang\\InvoiceItem.cs",
-              "ToolTip": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\InvoiceItem.cs",
-              "RelativeToolTip": "QuanLyHoaDonBanHang\\InvoiceItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "Title": "HoaDonBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\HoaDonBanHang.cs",
+              "RelativeDocumentMoniker": "QuanLyHoaDonBanHang\\HoaDonBanHang.cs",
+              "ToolTip": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\HoaDonBanHang.cs",
+              "RelativeToolTip": "QuanLyHoaDonBanHang\\HoaDonBanHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:36:06.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Invoice.cs",
-              "RelativeDocumentMoniker": "QuanLyHoaDonBanHang\\Invoice.cs",
-              "ToolTip": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Invoice.cs",
-              "RelativeToolTip": "QuanLyHoaDonBanHang\\Invoice.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:35:34.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StaticClass.cs",
-              "DocumentMoniker": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\StaticClass.cs",
-              "RelativeDocumentMoniker": "QuanLyHoaDonBanHang\\StaticClass.cs",
-              "ToolTip": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\StaticClass.cs",
-              "RelativeToolTip": "QuanLyHoaDonBanHang\\StaticClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:35:02.189Z"
+              "WhenOpened": "2024-11-15T09:22:19.513Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Store.cs",
-              "DocumentMoniker": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Store.cs",
-              "RelativeDocumentMoniker": "QuanLyHoaDonBanHang\\Store.cs",
-              "ToolTip": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Store.cs",
-              "RelativeToolTip": "QuanLyHoaDonBanHang\\Store.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA3wCMAAAAqAAAAAAAAAA==",
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Discount.cs",
+              "RelativeDocumentMoniker": "QuanLyHoaDonBanHang\\Discount.cs",
+              "ToolTip": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Discount.cs",
+              "RelativeToolTip": "QuanLyHoaDonBanHang\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:19:46.08Z"
+              "WhenOpened": "2024-12-01T11:06:40.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Store.cs",
+              "RelativeDocumentMoniker": "QuanLyHoaDonBanHang\\Store.cs",
+              "ToolTip": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Store.cs",
+              "RelativeToolTip": "QuanLyHoaDonBanHang\\Store.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:19:46.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Customers.cs",
+              "RelativeDocumentMoniker": "QuanLyHoaDonBanHang\\Customers.cs",
+              "ToolTip": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Customers.cs",
+              "RelativeToolTip": "QuanLyHoaDonBanHang\\Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:02:26.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HoaDonBanHang.cs",
-              "DocumentMoniker": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\HoaDonBanHang.cs",
-              "RelativeDocumentMoniker": "QuanLyHoaDonBanHang\\HoaDonBanHang.cs",
-              "ToolTip": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\HoaDonBanHang.cs",
-              "RelativeToolTip": "QuanLyHoaDonBanHang\\HoaDonBanHang.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwDwAAAAFAAAAAAAAAA==",
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Invoice.cs",
+              "RelativeDocumentMoniker": "QuanLyHoaDonBanHang\\Invoice.cs",
+              "ToolTip": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Invoice.cs",
+              "RelativeToolTip": "QuanLyHoaDonBanHang\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T09:22:19.513Z"
+              "WhenOpened": "2024-12-01T09:58:16.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "InvoiceItem.cs",
+              "DocumentMoniker": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\InvoiceItem.cs",
+              "RelativeDocumentMoniker": "QuanLyHoaDonBanHang\\InvoiceItem.cs",
+              "ToolTip": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\InvoiceItem.cs",
+              "RelativeToolTip": "QuanLyHoaDonBanHang\\InvoiceItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:58:11.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StaticClass.cs",
+              "DocumentMoniker": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\StaticClass.cs",
+              "RelativeDocumentMoniker": "QuanLyHoaDonBanHang\\StaticClass.cs",
+              "ToolTip": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\StaticClass.cs",
+              "RelativeToolTip": "QuanLyHoaDonBanHang\\StaticClass.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:35:02.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Program.cs",
               "RelativeDocumentMoniker": "QuanLyHoaDonBanHang\\Program.cs",
-              "ToolTip": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Program.cs",
+              "ToolTip": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\Program.cs",
               "RelativeToolTip": "QuanLyHoaDonBanHang\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T09:21:44.544Z",
               "EditorCaption": ""

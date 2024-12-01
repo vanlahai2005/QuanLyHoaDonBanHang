@@ -9,12 +9,29 @@ namespace QuanLyHoaDonBanHang
     public class Store
     {
         private List<Item> products = new List<Item>();
+        public Store() { }
 
         public void AddProduct(Item product)
         {
             products.Add(product);
             Console.WriteLine("Product added successfully.");
         }
+        public void SaleProduct()
+        {
+            Console.Write("Enter product ID: ");
+            string id = Console.ReadLine();
+            Console.Write("Enter product name: ");
+            string name = Console.ReadLine();
+            Console.Write("Enter price: ");
+            double price = double.Parse(Console.ReadLine());
+            Console.Write("Enter stock: ");
+            int stock = int.Parse(Console.ReadLine());
+            Item saleProduct = new Item(id, name, price, stock);
+            products.Remove(saleProduct);
+            Console.WriteLine("Sale sucessfully!");
+
+        }
+
 
         public void DisplayAllProducts()
         {

@@ -10,17 +10,44 @@ namespace QuanLyHoaDonBanHang
     {
         private List<InvoiceItem> items = new List<InvoiceItem>();
 
-        public void AddItem(Item product, int quantity)
+        public void AddItemToInvoice(Store store)
         {
+            Console.Write("Enter product ID: ");
+            string productid = Console.ReadLine();
+
+            if (string.IsNullOrEmpty(productid))
+            {
+                Console.WriteLine("Invalid product ID!");
+                return;
+            }
+
+            Item product = store.SearchProductById(productid);
+            if (product == null)
+            {
+                Console.WriteLine("Product not found!");
+                return;
+            }
+
+            Console.Write("Enter quantity: ");
+            if (!int.TryParse(Console.ReadLine(), out int quantity) || quantity <= 0)
+            {
+                Console.WriteLine("Invalid quantity!");
+                return;
+            }
+
             if (product.Stock < quantity)
             {
                 Console.WriteLine("Not enough stock!");
                 return;
             }
+
+            // Add the product to the invoice and reduce stock
             items.Add(new InvoiceItem(product, quantity));
-            product.UpdateStock(-quantity); //giam so luong hang ton kho
+            product.UpdateStock(-quantity);
             Console.WriteLine("Item added to invoice.");
         }
+
+
         public void DisplayInvoice()
         {
             if (items.Count == 0)

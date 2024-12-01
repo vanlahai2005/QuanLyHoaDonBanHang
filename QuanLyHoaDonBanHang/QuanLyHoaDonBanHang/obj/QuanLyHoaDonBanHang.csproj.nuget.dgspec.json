@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj": {}
+    "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj": {}
   },
   "projects": {
-    "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj": {
+    "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj",
+        "projectUniqueName": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj",
         "projectName": "QuanLyHoaDonBanHang",
-        "projectPath": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj",
+        "projectPath": "C:\\Users\\van\\source\\repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang.csproj",
         "packagesPath": "C:\\Users\\van\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\van\\OneDrive\\Desktop\\Code\\OOP c#\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\obj\\",
+        "outputPath": "C:\\Users\\van\\Source\\Repos\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\QuanLyHoaDonBanHang\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

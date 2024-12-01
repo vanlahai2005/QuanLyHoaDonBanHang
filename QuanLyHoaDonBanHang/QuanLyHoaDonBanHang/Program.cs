@@ -8,10 +8,13 @@ namespace QuanLyHoaDonBanHang
             Store store = new Store();
             Invoice invoice = new Invoice();
             bool exit = false;
+            Saler nhanvien = new Saler();
 
             store.AddProduct(new Item("P001", "Laptop", 1500, 10));
             store.AddProduct(new Item("P002", "Mouse", 25, 50));
             store.AddProduct(new Item("P003", "Keyboard", 45, 30));
+
+            nhanvien.QuanLyNhanVien();
 
             while (!exit)
             {
@@ -41,22 +44,6 @@ namespace QuanLyHoaDonBanHang
                     case "2":
                         store.DisplayAllProducts();
                         break;
-
-                    case "3":
-                        Console.Write("Enter product ID: ");
-                        string productId = Console.ReadLine();
-                        Item product = store.SearchProductById(productId);
-                        if (product == null)
-                        {
-                            Console.WriteLine("Product not found!");
-                            break;
-                        }
-
-                        Console.Write("Enter quantity: ");
-                        int quantity = int.Parse(Console.ReadLine());
-                        invoice.AddItem(product, quantity);
-                        break;
-
                     case "4":
                         invoice.DisplayInvoice();
                         break;
